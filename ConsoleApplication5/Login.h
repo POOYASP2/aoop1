@@ -1,0 +1,1 @@
+bool login(int type, int number, const char* name);
